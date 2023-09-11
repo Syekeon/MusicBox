@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Music Box</string>
+    <string name="btn_genero">Nuevo\nGénero</string>
+    <string name="btn_cancion">Nueva\nCanción</string>
+    <string name="btn_biblioteca">Ver Biblioteca\nde Canciones</string>
+    <string name="btn_manual">Manual</string>
+    <string name="txt_introapp">¡Bienvenido a Music Box!\n¡Tu biblioteca de música personal!</string>
+    <string name="btn_volver">Volver</string>
+    <string name="desc_voz">Reconocimiento de voz</string>
+    <string name="btn_nuevogenero">Guardar Género</string>
+    <string name="txt_introgenero">¡Agrega un nuevo género musical!</string>
+    <string name="txt_genero">Introduzca el nuevo género</string>
+    <string name="btn_nuevacancion">Guardar Canción</string>
+    <string name="txt_introcancion">¡Agrega una nueva canción a tu biblioteca!</string>
+    <string name="txt_cancion">Introduzca la nueva canción</string>
+    <string name="desc_genero">Selecciona el género de la canción</string>
+    <string name="txt_introbiblioteca">¡Tu biblioteca de música completo!</string>
+    <string name="txt_intromanual">¡Te ayudamos a navegar por la app!</string>
+    <string name="txt_menumanual">-> Menú: Este es la primera interfaz que verás al iniciar la app, tendrás varias opciones por donde gestionar tu biblioteca de música.</string>
+    <string name="txt_bibliotecamanual">-> Ver Biblioteca: Aquí verás la lista completa de tus canciones guardadas, mostrarán tanto el nombre como el género de las canciones guardadas.</string>
+    <string name="txt_cancionmanual">-> Nueva Canción: Aquí podrás añadir una nueva canción a tu biblioteca, escribe el nombre de la canción, selecciona el género de éste (opcional) y pulsa "guardar canción" para que se guarde correctamente. También tiene una función de voz en la que podrás decir el nombre de la canción por voz y se escribirá automáticamente.</string>
+    <string name="txt_generomanual">-> Nuevo Género: Aquí podrás añadir un nuevo género de música, escribe el nombre del género y pulsa "guardar género" para que se guarde correctamente. También tiene una función de voz en la que podrás decir el nombre del género por voz y se escribirá automáticamente.</string>
+    <string name="txt_expmanual">¡Esperamos que tengas una buena experiencia con nuestra app!</string>
+</resources>
